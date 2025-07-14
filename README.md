@@ -29,7 +29,7 @@ Informasi dibagi menjadi topik-topik spesifik:
 
 ## 3.	Membuat Akun dan Login ##
 Dokumentasi ini dibagi menjadi beberapa bagian utama, disusun secara logis mengikuti alur pembelian. Setiap bagian utama akan memiliki sub-bagian yang detail.
-* [Bab 1: Memulai Pembelian](#[inline-formatting](https://github.com/salmaazzz/tokopedia-purchase-docs-mobile/blob/main/README.md#bab-1-memulai-pembelian))
+* [Bab 1: Memulai Pembelian](#bab-1-memulai-pembelian)
 * Bab 2: Proses Pemilihan Produk
 * Bab 3: Keranjang Belanja dan Checkout
 * Bab 4: Pembayaran dan Konfirmasi
