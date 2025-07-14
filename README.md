@@ -48,3 +48,12 @@ Memahami setiap tahapan dalam proses pembelian sangat penting untuk memastikan p
 * Mengatasi Kendala: Mengetahui langkah-langkah yang harus diambil jika terjadi masalah selama proses pembelian di aplikasi.
 
 Panduan ini akan memandu Anda melalui setiap langkah, memastikan Anda dapat berbelanja di Tokopedia dengan percaya diri dan efisien menggunakan aplikasi mobile.
+
+#### 1.2	Cara Mendaftar dan Login Akun Tokopedia ####
+Bagian ini memandu Anda melalui proses pembuatan akun baru dan cara masuk ke akun Tokopedia yang sudah ada. Pendaftaran atau login diperlukan untuk melanjutkan proses pembelian di Tokopedia.
+
+1.	Buka aplikasi Tokopedia di perangkat mobile Anda.
+2.	Pada halaman utama aplikasi, pilih menu Akun yang ada terletak di pojok kanan bawah.
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/f887866f-0215-4b85-a080-2de28e6b70b0" alt="Halaman Beranda Aplikasi Tokopedia" width="50%">
+</div>
