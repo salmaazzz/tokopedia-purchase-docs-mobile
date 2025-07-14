@@ -54,6 +54,9 @@ Bagian ini memandu Anda melalui proses pembuatan akun baru dan cara masuk ke aku
 
 1.	Buka aplikasi Tokopedia di perangkat mobile Anda.
 2.	Pada halaman utama aplikasi, pilih menu Akun yang ada terletak di pojok kanan bawah.
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/f887866f-0215-4b85-a080-2de28e6b70b0" alt="Halaman Beranda Aplikasi Tokopedia" width="50%">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f887866f-0215-4b85-a080-2de28e6b70b0" 
+       alt="Tombol Masuk atau Daftar di Aplikasi Tokopedia" 
+       width="20%">
+</p>
+
