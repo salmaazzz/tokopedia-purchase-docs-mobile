@@ -18,7 +18,7 @@ Proses penulisan dokumen ini menggunakan pendekatan Darwin Information Typing Ar
 Informasi dibagi menjadi topik-topik spesifik:
 * Konsep (Concept) : Menjelaskan ide atau latar belakang (misalnya, “Apa itu Keranjang Belanja?”).
 * Tugas (Task): Memberikan instruksi langkah demi langkah (misalnya, “Cara Menambahkan Produk ke Keranjang”).
-* Referensi (Reference): Menyediakan informasi factual (misalnya, “Daftar Metode Pembayaran”).
+* Referensi (Reference): Menyediakan informasi faktual (misalnya, “Daftar Metode Pembayaran”).
 
 ### Pengelolaan Proses dengan Scrum ###
 * Product Backlog: Daftar semua topik dokumentasi yang perlu dibuat, diprioritaskan berdasarkan alur pembelian.
@@ -43,7 +43,7 @@ Proses pembelian di Tokopedia adalah serangkaian langkah yang dirancang untuk me
 
 Memahami setiap tahapan dalam proses pembelian sangat penting untuk memastikan pengalaman belanja yang lancar dan memuaskan. Dengan panduan ini, Anda akan dapat:
 * Menemukan Produk yang Tepat: Menggunakan fitur pencarian dan filter secara efektif.
-* Melakukan Transaksi dengan Aman: Memilih metode pambayaran yang sesuai dan memastikan keamanan data Anda melalui aplikasi.
+* Melakukan Transaksi dengan Aman: Memilih metode pembayaran yang sesuai dan memastikan keamanan data Anda melalui aplikasi.
 * Melacak Pesanan Anda: Memantau status pengiriman hingga barang tiba di tangan Anda langsung dari aplikasi.
 * Mengatasi Kendala: Mengetahui langkah-langkah yang harus diambil jika terjadi masalah selama proses pembelian di aplikasi.
 
